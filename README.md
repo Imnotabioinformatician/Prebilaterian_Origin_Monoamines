@@ -1,6 +1,7 @@
 # Prebilaterian origin of monoaminergic signalling
 
 This repository contains the code, models, sequence resources, and selected source data associated with our study on the prebilaterian origin of monoaminergic signalling.
+<img width="10050" height="5653" alt="Abstract Graphic_final" src="https://github.com/user-attachments/assets/2e62b055-4d9f-481a-a5ec-3465c38c2f1d" />
 
 ## Contents
 
