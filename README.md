@@ -42,6 +42,8 @@ If you use material from this repository, please cite the associated manuscript:
 
 **Yañez-Guerra et al.** *Prebilaterian origin of monoaminergic signalling*  
 [Journal details to be added upon publication]
+and
+Guerra, Luis (2026), “Prebilaterian Origin of Monoaminergic Signalling”, Mendeley Data, V1, doi: 10.17632/yzcndv7fpb.1
 
 ## Contact
 
